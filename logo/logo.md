@@ -1,0 +1,1 @@
+The background image of the rainbow on ARoS is taken from here, and is free to use: https://pixabay.com/photos/aarhus-aros-capital-of-culture-2017-2313180/
