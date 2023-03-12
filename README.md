@@ -16,10 +16,13 @@ In Rust-Aarhus everyone is welcome and should feel welcome. For this reason, we 
 
 ## Communication Channels
 
-Support between members of Rust-Aarhus: TBD
+New meetups is announced on [meetup.com/rust-aarhus][meetup].
 
-Communication to the organizers: TBD
+Communication to the organizers is also done mainly through meetup.com.
+
+Support between members of Rust-Aarhus: TBD
 
 
 
 [berlin-coc]: https://berlincodeofconduct.org/
+[meetup]: https://www.meetup.com/rust-aarhus/
