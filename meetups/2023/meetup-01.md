@@ -18,7 +18,7 @@ The program for the evening is settled, but the individual times are subject to 
 
 He will like to welcome your all and talk about how we can create an awesome community together.
 
-### I already know a memory safe language, so why should I learn Rust?
+### Why learn Rust if I know a memory-safe language?
 [Philip Kristoffersen][pk] is a senior software consultant (Full-stack & Architect) at [BRØLSTÆRK] and works with everything from 3D Visualization to Microservices.
 
 This evening he'll compare Rust, C# and TypeScript features and their pros & cons, followed by a Q&A.
