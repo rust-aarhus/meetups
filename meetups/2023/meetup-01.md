@@ -19,10 +19,9 @@ The program for the evening is settled, but the individual times are subject to 
 He will like to welcome your all and talk about how we can create an awesome community together.
 
 ### I already know a memory safe language, so why should I learn Rust?
-[Philip Kristoffersen][pk] is senior software consultant at [BRØLSTÆRK] and works with ... 
-(PHILIP, please finish this line and if needed modify the description below)
+[Philip Kristoffersen][pk] is a senior software consultant (Full-stack & Architect) at [BRØLSTÆRK] and works with everything from 3D Visualization to Microservices.
 
-This evening he will compare some features in Rust with C# and Javascript and talk about the pros and cons. The talk will be followed by a Q&A.
+This evening he'll compare Rust, C# and TypeScript features and their pros & cons, followed by a Q&A.
 
 ### Breaking the limits of Rust: Exploring Static Reflection for Powerful Code Generation
 [Wojciech Polak][wp] is senior fullstack engineer at [Impero] and works with ...
