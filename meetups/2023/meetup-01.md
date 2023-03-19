@@ -16,7 +16,7 @@ The program for the evening is settled, but the individual times are subject to 
 ### Welcome - Let's build a new community together
 [Tue Henriksen][th] from [r2p] is the founder of Rust Aarhus with a background in the embedded world. He started using Rust when he joined r2p in late 2019.
 
-He will like to welcome your all and talk about how we can create an awesome community together.
+He will like to welcome you all and talk about how we can create an awesome community together.
 
 ### Why learn Rust if I know a memory-safe language?
 [Philip Kristoffersen][pk] is a senior software consultant (Full-stack & Architect) at [BRØLSTÆRK] and works with everything from 3D Visualization to Microservices.
