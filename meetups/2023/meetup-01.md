@@ -31,7 +31,6 @@ Static reflection - (not existing) mechanism of Rust that allows accessing the m
 
 His presentation targets an intermediate audience, but he will explain everything if needed. A Q&A will follow the talk.
 
-He will show some of his work of generating schema from the Rust codebase, the possible solutions, drawbacks, and promising alternatives. The talk will be followed by a Q&A.
 
 
 [rust]: https://www.rust-lang.org/
