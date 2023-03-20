@@ -25,7 +25,11 @@ This evening he'll compare Rust, C# and TypeScript features and their pros & con
 
 ### Breaking the limits of Rust: Exploring Static Reflection for Powerful Code Generation
 [Wojciech Polak][wp] is a senior full-stack engineer at [Impero] and works with the backend, tools, and libraries, all written in Rust.
-(Wojciech, please finish this line. I think you should also very briefly write what this static reflection is used for).
+He will show some of his work on generating schema and bindings for TypeScript from the Rust codebase, existing alternatives, drawbacks, and advantages, as well as how to use static reflection to overcome the limits.
+
+Static reflection - (not existing) mechanism of Rust that allows accessing the meta-data about types and traits during the runtime, for example, what fields the structure has, what the names are, and what the implementations of the given trait are.
+
+His presentation targets an intermediate audience, but he will explain everything if needed. A Q&A will follow the talk.
 
 He will show some of his work of generating schema from the Rust codebase, the possible solutions, drawbacks, and promising alternatives. The talk will be followed by a Q&A.
 
