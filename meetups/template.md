@@ -1,6 +1,6 @@
-# Rust-Aarhus meetup #n at m
+# Rust Aarhus meetup #n at m
 
-Rust Aarhus invites you to this free meetup for all interested in the programming language Rust.
+Rust Aarhus invites you to this free meetup for all interested in the programming language [Rust].
 
 The program for the evening is:
 [OR   We are still working on the program, but it will be something like the following:]
