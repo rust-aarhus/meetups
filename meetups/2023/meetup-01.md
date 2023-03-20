@@ -24,7 +24,7 @@ He will like to welcome you all and talk about how we can create an awesome comm
 This evening he'll compare Rust, C# and TypeScript features and their pros & cons, followed by a Q&A.
 
 ### Breaking the limits of Rust: Exploring Static Reflection for Powerful Code Generation
-[Wojciech Polak][wp] is senior fullstack engineer at [Impero] and works with ...
+[Wojciech Polak][wp] is a senior full-stack engineer at [Impero] and works with the backend, tools, and libraries, all written in Rust.
 (Wojciech, please finish this line. I think you should also very briefly write what this static reflection is used for).
 
 He will show some of his work of generating schema from the Rust codebase, the possible solutions, drawbacks, and promising alternatives. The talk will be followed by a Q&A.
