@@ -4,10 +4,11 @@ Rust Aarhus invites you to this free meetup for all interested in the programmin
 
 The program for the evening is settled, but the individual times are subject to change:
 
-- 18:00 - 18:30: "Welcome - Let's build a new community together" - by Tue Henriksen
-- 18:35 - 18:55: "Why learn Rust if I know a memory-safe language?" by Philip Kristoffersen.
-- 18:55 - 19:40: Light dinner sponsored by [r2p] and [Geanix].
-- 19:40 - 20:25: "Breaking the limits of Rust: Exploring Static Reflection for Powerful Code Generation" by Wojciech Polak.
+- 18:00 - 18:20: "Let's build a new community together - part I" - by Tue Henriksen
+- 18:25 - 18:45: "Why learn Rust if I know a memory-safe language?" by Philip Kristoffersen.
+- 18:45 - 19:30: Light dinner sponsored by [r2p] and [Geanix].
+- 19:30 - 20:15: "Breaking the limits of Rust: Exploring Static Reflection for Powerful Code Generation" by Wojciech Polak.
+- 20:20 - 20:30: "Let's build a new community together - part II" - by Tue Henriksen
 - 20:30 - 21:00: Get help to get started with Rust, or get answers from other members on your Rust questions - bring your laptop!
 - ~21:00: Thank you for a hopefully wonderful and rewarding evening. Feedback for the meetup will be appreciated.
 
