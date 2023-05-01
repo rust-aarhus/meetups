@@ -18,7 +18,8 @@ We are still working on the program, but it will be something like the following
 ## When lifetimes give you lemons - an introduction to Rust lifetimes
 [Philip Kristoffersen][pk] is a senior software consultant (Full-stack & Architect) at [BRØLSTÆRK] and works with everything from 3D Visualization to Microservices.
 
-[ADD DESCRIPTION OF THE TALK HERE]
+In this talk we will first get everyone up to speed on what lifetimes are and why they are needed in Rust.
+Then we will look at how to use lifetimes, why they are cool and how to avoid common pitfalls.
 
 ## Ansible in Rust
 [INFORMATION ABOUT THE SPEAKER]
