@@ -7,3 +7,5 @@ The following lists the requirements for the venue. Please let us know if there 
  - Presentation equipment: Projector or big screen.
  - Directions: If the venue can be hard to find, please write a description that we can put in the program. There will be people coming by car and public transport.
  - Food and beverage: It is up to the host to decide what to serve. It can be sandwiches, pizza, etc. Please notice that there might be vegans in the crowd. For drinks, sodas and beers will do.
+
+Just before the food is served, the host can use up to 10 min to give a short presentation of the company.
