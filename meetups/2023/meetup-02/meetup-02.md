@@ -40,3 +40,5 @@ Lighting talks for the evening:
 [rust]: https://www.rust-lang.org/
 [brølstærk]: https://www.linkedin.com/company/br%C3%B8lst%C3%A6rk/
 [pk]: https://www.linkedin.com/in/philip-kristoffersen-3b894b8/
+[mdue]: https://www.linkedin.com/in/mikkel-dueholm-8076441a8/
+[novax]: https://www.linkedin.com/company/novax/
