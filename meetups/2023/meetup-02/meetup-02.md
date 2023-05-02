@@ -27,9 +27,9 @@ Then we will look at how to use lifetimes, why they are cool and how to avoid co
 [ADD DESCRIPTION OF THE TALK HERE]
 
 ## Ansible in Rust
-[INFORMATION ABOUT THE SPEAKER]
+[Mikkel Dueholm][mdue] is a system administrator at [NOVAX A/S][novax] and daily works with people and servers in the healthcare space. A self-taught enthusiast representing the intermediate level.
 
-[ADD DESCRIPTION OF THE TALK HERE]
+This talk will cover implementing Ansible in Rust, with a focus on design and the challenges of switching from Python. It will provide insights into the rationale behind using Rust for automation tool development.
 
 ## Lightning Talks
 Lighting talks for the evening:
