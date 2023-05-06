@@ -21,10 +21,10 @@ We are still working on the program, but it will be something like the following
 In this talk we will first get everyone up to speed on what lifetimes are and why they are needed in Rust.
 Then we will look at how to use lifetimes, why they are cool and how to avoid common pitfalls.
 
-## Sudoku solving with Rust iterators for intellectual amusement
-[INFORMATION ABOUT THE SPEAKER]
+## Solving Sudokus with Rust Iterators
+[Niels Kristian Skovmand][ns] is a Software Engineer at CrowdStrike, working with frontend web development on [Falcon LogScale][logscale]. He has been a Rust enthusiast ever since doing the Rustlings course 2 years ago 🦞
 
-[ADD DESCRIPTION OF THE TALK HERE]
+In the talk we will cover how to implement a sudoku solving iterator in Rust. We will cover the backtracking technique, how to build custom iterators, the benefits of laziness and the benefits for the consumer of the iterator.
 
 ## Ansible in Rust
 [Mikkel Dueholm][mdue] is a system administrator at [NOVAX A/S][novax] and daily works with people and servers in the healthcare space. A self-taught enthusiast representing the intermediate level.
