@@ -42,3 +42,5 @@ Lighting talks for the evening:
 [pk]: https://www.linkedin.com/in/philip-kristoffersen-3b894b8/
 [mdue]: https://www.linkedin.com/in/mikkel-dueholm-8076441a8/
 [novax]: https://www.linkedin.com/company/novax/
+[ns]: https://www.linkedin.com/in/nskovmand/
+[logscale]: https://www.crowdstrike.com/products/observability/falcon-logscale/
