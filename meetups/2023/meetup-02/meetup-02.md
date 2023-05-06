@@ -22,7 +22,7 @@ In this talk we will first get everyone up to speed on what lifetimes are and wh
 Then we will look at how to use lifetimes, why they are cool and how to avoid common pitfalls.
 
 ## Solving Sudokus with Rust Iterators
-[Niels Kristian Skovmand][ns] is a Software Engineer at CrowdStrike, working with frontend web development on [Falcon LogScale][logscale]. He has been a Rust enthusiast ever since doing the Rustlings course 2 years ago 🦞
+[Niels Kristian Skovmand][ns] is a Software Engineer at CrowdStrike, working with frontend web development on [Falcon LogScale][logscale]. He has been a Rust enthusiast ever since doing the Rustlings course 2 years ago 🦀
 
 In the talk we will cover how to implement a sudoku solving iterator in Rust. We will cover the backtracking technique, how to build custom iterators, the benefits of laziness and the benefits for the consumer of the iterator.
 
