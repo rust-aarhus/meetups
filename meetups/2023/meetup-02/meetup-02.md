@@ -1,10 +1,8 @@
-# Rust Aarhus meetup #2 at [BRØLSTÆRK]
+# Rust Aarhus meetup #2 sponsored by [BRØLSTÆRK]
 
-Rust Aarhus invites you to this free meetup for all interested in the programming language [Rust].
+Rust Aarhus and [BRØLSTÆRK] invites you to this free meetup for all interested in the programming language [Rust].
 
-WE ARE STILL LOOKING FOR SPEAKERS. PLEASE CONTACT TUE HENRIKSEN FOR MORE INFORMATION.
-
-We are still working on the program, but it will be something like the following:
+The program for the evening is:
 
 - 18:00 - 18:10: Welcome by Tue Henriksen
 - 18:15 - 18:35: "When lifetimes give you lemons - an introduction to Rust lifetimes" and Q&A by Philip Kristoffersen (15+5 min)
@@ -35,6 +33,12 @@ This talk will cover implementing Ansible in Rust, with a focus on design and th
 Lighting talks for the evening:
  - Ole Friis Østergaard - Oles first open source contribution
  - Tue Henriksen - cargo deny
+
+## Location
+Please notice that the meetup will NOT be at BRØLSTÆRKs office, but at officelab, Lyshøjen 8A, 8520 Lystrup (Lillesalen). Please feel free to use the event chat on meetup to organize transportation if needed - otherwise there is also public transportation nearby.
+
+## Food
+If you have special needs regarding food (allergies, vegan, etc.), please forward your request directly to Philip Kristoffersen.
 
 
 [rust]: https://www.rust-lang.org/
