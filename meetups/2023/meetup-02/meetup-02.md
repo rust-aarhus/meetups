@@ -6,11 +6,10 @@ The program for the evening is:
 
 - 18:00 - 18:10: Welcome by Tue Henriksen
 - 18:15 - 18:35: "When lifetimes give you lemons - an introduction to Rust lifetimes" and Q&A by Philip Kristoffersen (15+5 min)
-- 18:40 - 19:00: Lightning talks
-- 19:00 - 19:45: Light dinner sponsored by [BRØLSTÆRK]
-- 19:45 - 20:15: "Sudoku solving with Rust iterators" and Q&A by Niels Kristian Skovmand (25+5 min)
-- 20:20 - 20:40: "Ansible in Rust" and Q&A by Mikkel (15+5 min)
-- 20:40 - 21:00: Free play - bring your laptop!
+- 18:40 - 19:25: Light dinner sponsored by [BRØLSTÆRK]
+- 19:25 - 19:55: "Sudoku solving with Rust iterators" and Q&A by Niels Kristian Skovmand (25+5 min)
+- 20:00 - 20:35: "Ansible in Rust" and Q&A by Mikkel Dueholm (30+5 min)
+- 20:35 - 21:00: Free play - bring your laptop!
 - ~21:00: Thank you for a hopefully wonderful and rewarding evening. Feedback for the meetup will be appreciated.
 
 ## When lifetimes give you lemons - an introduction to Rust lifetimes
