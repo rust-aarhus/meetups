@@ -6,11 +6,10 @@ The program for the evening is:
 
 - 18:00 - 18:10: Welcome by Tue Henriksen
 - 18:15 - 18:35: "When lifetimes give you lemons - an introduction to Rust lifetimes" and Q&A by Philip Kristoffersen (15+5 min)
-- 18:40 - 19:00: Lightning talks
-- 19:00 - 19:45: Light dinner sponsored by [BRØLSTÆRK]
-- 19:45 - 20:15: "Sudoku solving with Rust iterators" and Q&A by Niels Kristian Skovmand (25+5 min)
-- 20:20 - 20:40: "Ansible in Rust" and Q&A by Mikkel (15+5 min)
-- 20:40 - 21:00: Free play - bring your laptop!
+- 18:40 - 19:25: Light dinner sponsored by [BRØLSTÆRK]
+- 19:25 - 19:55: "Sudoku solving with Rust iterators" and Q&A by Niels Kristian Skovmand (25+5 min)
+- 20:00 - 20:35: "Ansible in Rust" and Q&A by Mikkel Dueholm (30+5 min)
+- 20:35 - 21:00: Free play - bring your laptop!
 - ~21:00: Thank you for a hopefully wonderful and rewarding evening. Feedback for the meetup will be appreciated.
 
 ## When lifetimes give you lemons - an introduction to Rust lifetimes
@@ -28,11 +27,6 @@ In the talk we will cover how to implement a sudoku solving iterator in Rust. We
 [Mikkel Dueholm][mdue] is a system administrator at [NOVAX A/S][novax] and daily works with people and servers in the healthcare space. A self-taught enthusiast representing the intermediate level.
 
 This talk will cover implementing Ansible in Rust, with a focus on design and the challenges of switching from Python. It will provide insights into the rationale behind using Rust for automation tool development.
-
-## Lightning Talks
-Lighting talks for the evening:
- - Ole Friis Østergaard - Oles first open source contribution
- - Tue Henriksen - cargo deny
 
 ## Location
 Please notice that the meetup will NOT be at BRØLSTÆRKs office, but at officelab, Lyshøjen 8A, 8520 Lystrup (Lillesalen). Please feel free to use the event chat on meetup to organize transportation if needed - otherwise there is also public transportation nearby.
