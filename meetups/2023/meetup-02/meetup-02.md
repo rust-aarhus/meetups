@@ -1,5 +1,7 @@
 # Rust Aarhus meetup #2 sponsored by [BRØLSTÆRK]
 
+ATTENTION: THE LOCATION HAS BEEN CHANGED TO A BUILDING JUST NEXT TO THE OLD LOCATION. THE ADDRESS IS SKÆRINGVEJ 110, 8520 LYSTRUP - PLEASE CHECK THIS [IMAGE][map].
+
 Rust Aarhus and [BRØLSTÆRK] invites you to this free meetup for all interested in the programming language [Rust].
 
 The program for the evening is:
@@ -29,7 +31,7 @@ In the talk we will cover how to implement a sudoku solving iterator in Rust. We
 This talk will cover implementing Ansible in Rust, with a focus on design and the challenges of switching from Python. It will provide insights into the rationale behind using Rust for automation tool development.
 
 ## Location
-Please notice that the meetup will NOT be at BRØLSTÆRKs office, but at officelab, Lyshøjen 8A, 8520 Lystrup (Lillesalen). Please feel free to use the event chat on meetup to organize transportation if needed - otherwise there is also public transportation nearby. [Show map][map].
+Please notice that the meetup will NOT be at BRØLSTÆRKs office, but at officelab, Skæringvej 110, 8520 Lystrup (Aranaen). Please feel free to use the event chat on meetup to organize transportation if needed - otherwise there is also public transportation nearby. [Show map][map].
 
 ## Food
 If you have special needs regarding food (allergies, vegan, etc.), please forward your request directly to Philip Kristoffersen.
