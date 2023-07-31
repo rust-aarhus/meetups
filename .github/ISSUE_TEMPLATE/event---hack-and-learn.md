@@ -2,7 +2,7 @@
 name: Event - Hack and Learn
 about: New hack and learn event
 title: Meetup [DATE]
-labels: E-hack
+labels: E-hack, N-sponsor, N-venue
 assignees: ''
 
 ---
