@@ -15,7 +15,6 @@ assignees: ''
 
 ### Sponsor
 - Sponsor name: [company name]
-- Sponsor contact: [mail, etc.]
   - [ ] Venue
   - [ ] Food
 
