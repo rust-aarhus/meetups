@@ -1,4 +1,5 @@
 # Rust Aarhus meetup at Concordium
+Date: 2023-09-21
 
 Rust Aarhus invites you to this free meetup for all interested in the programming language [Rust].
 
