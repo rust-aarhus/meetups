@@ -3,10 +3,10 @@
 The following lists the requirements for the venue. Please let us know if there is one or more point that you cannot fulfill. Maybe we can find a solution.
 
 This document is for two different types of meetups:
- 1. *Rusty Talks*: This is a meetup with talks about different things related to Rust - one speaker at a time plus an audience.
+ 1. *Rust and Talk*: This is a meetup with talks about different things related to Rust - one speaker at a time plus an audience.
  2. *Hack and Learn*: This is a more practical oriented meetup, where the members gathers in smaller groups to learn/hack on different topics.
 
- ## Rusty Talks
+ ## Rust and Talk
  - Space: We need space for at least 40 seated people.
 
 ## Hack and Learn
