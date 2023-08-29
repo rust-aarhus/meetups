@@ -11,7 +11,8 @@ We are still working on the program, but it will be something like the following
 - 19:00 - 19:45: Light dinner sponsored by Concordium
 - 19:45 - 20:30: "Concordium talk" by Concordium (45 min)
 - 20:35 - 20:45: "An innocent story of contributing to a Rust project" by Ole Friis Østergaard (10 min)
-- 20:50 - 21:00: Closing remarks (10 min)
+- 20:45 - 20:55: Book lottery by Niels Skovmand (10 min)
+- 20:55 - 21:00: Closing remarks (5 min)
 - 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
 
 ## [TITLE OF DUKE NUKEM TALK]
