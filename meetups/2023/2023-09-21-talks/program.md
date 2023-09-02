@@ -28,7 +28,7 @@ We are still working on the program, but it will be something like the following
 ## An innocent story of contributing to a Rust project
 [Ole Friis Østergaard][ofo] works at GitHub, mainly does Ruby, but also sometimes does Rust in his spare time.
 
-We'll talk about a time when @olefriis contributed functionality to an existing Rust crate. The journey took an interesting turn at some point, and he learned things he never thought he would learn. Now you will learn it too, and you will never un-learn it.
+We'll talk about a time when [Ole][ofo] contributed functionality to an existing Rust crate. The journey took an interesting turn at some point, and he learned things he never thought he would learn. Now you will learn it too, and you will never un-learn it.
 
 ## Location
 This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
