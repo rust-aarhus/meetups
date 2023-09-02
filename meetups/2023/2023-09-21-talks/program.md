@@ -15,7 +15,7 @@ We are still working on the program, but it will be something like the following
 - 20:55 - 21:00: Closing remarks (5 min)
 - 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
 
-## [TITLE OF DUKE NUKEM TALK]
+## Playing Duke Nukem 3D via Rust
 [INFORMATION ABOUT THE SPEAKERS]
 
 [ADD DESCRIPTION OF THE TALK HERE]
