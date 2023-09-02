@@ -31,7 +31,7 @@ We are still working on the program, but it will be something like the following
 We'll talk about a time when [Ole][ofo] contributed functionality to an existing Rust crate. The journey took an interesting turn at some point, and he learned things he never thought he would learn. Now you will learn it too, and you will never un-learn it.
 
 ## Location
-This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
+This meetup will be at Concordium, Åboulevarden 31, 1st floor. Please feel free to use the comments on this meetup event to organize transportation if needed.
 
 ## Food
 If you have special needs regarding food (allergies, vegan, etc.), please forward your request directly to philipkristoffersen@gmail.com.
