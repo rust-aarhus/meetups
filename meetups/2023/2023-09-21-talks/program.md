@@ -6,14 +6,14 @@ Rust Aarhus invites you to this free meetup for all interested in the programmin
 We are still working on the program, but it will be something like the following:
 
 - 18:05 - 18:15: Welcome (10 min)
-- 18:20 - 18:50: "Playing Duke Nukem 3D via Rust" by Jeppe and Rasmus (30 min)
+- 18:15 - 18:50: "Playing Duke Nukem 3D via Rust" by Jeppe and Rasmus (30+5 min)
 - 18:50 - 19:00: A word from our sponsor (5-10 min)
-- 19:00 - 19:45: Light dinner sponsored by Concordium
-- 19:45 - 20:30: "Concordium talk" by Concordium (45 min)
+- 19:00 - 19:40: Light dinner sponsored by Concordium
+- 19:40 - 20:30: "Concordium talk" by Concordium (45+5 min)
 - 20:35 - 20:45: "An innocent story of contributing to a Rust project" by Ole Friis Østergaard (10 min)
 - 20:45 - 20:55: Book lottery by Niels Skovmand (10 min)
 - 20:55 - 21:00: Closing remarks (5 min)
-- 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
+- 21:00: Let's continue the discussion at the nearby Die Bierbar.
 
 ## Playing Duke Nukem 3D via Rust
 [INFORMATION ABOUT THE SPEAKERS]
