@@ -34,7 +34,7 @@ We'll talk about a time when @olefriis contributed functionality to an existing 
 This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
 
 ## Food
-If you have special needs regarding food (allergies, vegan, etc.), please forward your request directly to [INSERT NAME OF HOST].
+If you have special needs regarding food (allergies, vegan, etc.), please forward your request directly to philipkristoffersen@gmail.com.
 
 
 [rust]: https://www.rust-lang.org/
