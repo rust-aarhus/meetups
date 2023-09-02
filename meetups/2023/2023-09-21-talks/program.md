@@ -38,4 +38,3 @@ If you have special needs regarding food (allergies, vegan, etc.), please forwar
 
 
 [rust]: https://www.rust-lang.org/
-[ofo]: https://www.linkedin.com/in/ole-friis-%C3%B8stergaard-5827691/
