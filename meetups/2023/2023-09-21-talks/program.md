@@ -26,7 +26,7 @@ We are still working on the program, but it will be something like the following
 [ADD DESCRIPTION OF THE TALK HERE]
 
 ## An innocent story of contributing to a Rust project
-@olefriis works at GitHub (you're looking at it!), mainly does Ruby, but also sometimes does Rust in his spare time.
+[Ole Friis Østergaard][ofo] works at GitHub, mainly does Ruby, but also sometimes does Rust in his spare time.
 
 We'll talk about a time when @olefriis contributed functionality to an existing Rust crate. The journey took an interesting turn at some point, and he learned things he never thought he would learn. Now you will learn it too, and you will never un-learn it.
 
