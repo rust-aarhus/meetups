@@ -17,7 +17,7 @@ We are still working on the program, but it will be something like the following
 
 ## Playing Duke Nukem 3D via Rust
 [Jeppe Kristensen][jepify] works at LEGO in the infrastructure department doing automation of network related tasks using Python and Typescript.
-[Rasmus Larsen][herbstein] `todo!();`
+[Rasmus Larsen][herbstein] works on Falcon LogScale at CrowdStrike doing provisioning and developing multi-tenancy features.
 
 The  Duke Nukem 3D launcher project is about orchestrating the setup and launch of the Duke Nukem 3D game among different peers on different platforms. This includes the load of custom game files and parsing of game statistics. All of this is wrapped up into a GUI application to make the experience as easy for the user as possible.
 
