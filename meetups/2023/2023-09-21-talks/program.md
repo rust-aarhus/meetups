@@ -29,7 +29,7 @@ During this talk we will cover topics
 - Parsing log files using [peg](https://docs.rs/peg/latest/peg/#) parser generator
 
 
-## [TITLE OF CONCORDIUM TALK]
+## Using Rust for Smart Contracts
 [INFORMATION ABOUT THE SPEAKERS]
 
 [ADD DESCRIPTION OF THE TALK HERE]
