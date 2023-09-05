@@ -18,7 +18,15 @@ We are still working on the program, but it will be something like the following
 ## Playing Duke Nukem 3D via Rust
 [INFORMATION ABOUT THE SPEAKERS]
 
-[ADD DESCRIPTION OF THE TALK HERE]
+The  Duke Nukem 3D launcher project is about orchestrating the setup and launch of the Duke Nukem 3D game among different peers on different platforms. This includes the load of custom game files and parsing of game statistics. All of this is wrapped up into a GUI application to make the experience as easy for the user as possible.
+
+During this talk we will cover topics
+
+- Handling OS-specific behaviour
+- Client - server communication using [tokio_util::codec](https://docs.rs/tokio-util/latest/tokio_util/index.html)::[codec](https://docs.rs/tokio-util/latest/tokio_util/codec/index.html#)
+- Server architecture for message handling
+- Parsing log files using [peg](https://docs.rs/peg/latest/peg/#) parser generator
+
 
 ## [TITLE OF CONCORDIUM TALK]
 [INFORMATION ABOUT THE SPEAKERS]
