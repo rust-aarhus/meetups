@@ -2,13 +2,13 @@
 name: Event - Hack and Learn
 about: New hack and learn event
 title: Meetup [DATE]
-labels: E-hack, N-sponsor, N-venue
+labels: event:hack, need:sponsor, need:venue
 assignees: ''
 
 ---
 
 ### Event
-- Type: [Rust and Talk/Hack and Learn]
+- Type: Hack and Learn
 - Start time: 18:00
 - End time: 21:00
 - Host:

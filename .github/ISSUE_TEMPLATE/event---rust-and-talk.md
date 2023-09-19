@@ -2,13 +2,13 @@
 name: Event - Rust and Talk
 about: New rust and talk event
 title: Meetup [DATE]
-labels: E-talk, N-sponsor, N-talks, N-venue
+labels: event:talk, need:sponsor, need:talks, need:venue
 assignees: ''
 
 ---
 
 ### Event
-- Type: [Rust and Talk/Hack and Learn]
+- Type: Rust and Talk
 - Start time: 18:00
 - End time: 21:00
 - Host:
