@@ -14,9 +14,8 @@ assignees: ''
 - Host:
 
 ### Sponsor
-- Sponsor name: [company name]
-  - [ ] Venue
-  - [ ] Food
+- Sponsor of venue: [company name]
+- Sponsor of food: [company name]
 
 ### Venue
 - Name and address:
