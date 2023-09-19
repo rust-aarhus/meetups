@@ -17,7 +17,7 @@ This document is for two different types of meetups:
    - Experienced group (10): This consists of multiple dynamic clusters. The size of the clusters can be different and change throughout the evening.
 
 ## Common for both types
- - Time: Usually the event starts at 19:00 and ends around 21:00.
+ - Time: Usually the event starts at 18:00 and ends around 21:00.
  - Presentation equipment: Projector or big screen.
  - Network: Guest wifi.
  - Directions: If the venue can be hard to find, please write a description that we can put in the program. There will be people coming by car and public transport.
