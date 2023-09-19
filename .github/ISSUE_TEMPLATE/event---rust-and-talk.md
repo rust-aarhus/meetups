@@ -2,7 +2,7 @@
 name: Event - Rust and Talk
 about: New rust and talk event
 title: Meetup [DATE]
-labels: event:talk, need:sponsor, need:talks, need:venue
+labels: event:talks, need:sponsor, need:talks, need:venue
 assignees: ''
 
 ---
