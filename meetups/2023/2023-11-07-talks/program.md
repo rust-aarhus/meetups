@@ -28,7 +28,7 @@ Tue will talk about why he uses Rust in his daily work for designing reliable em
 This meetup will be held at the ORBIT Lab, Finlandsgade 20 in Aarhus.
 
 ## Food
-If you have special needs regarding food (allergies, veganism, etc.), please forward your request directly to Casper Hedegaard on meetup?.
+If you have special needs regarding food (allergies, veganism, etc.), please forward your request to rustaarhus@gmail.com.
 
 
 [rust]: https://www.rust-lang.org/
