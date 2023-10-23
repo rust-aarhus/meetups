@@ -8,11 +8,11 @@ this event is perfect for you. Discover the inner workings of the language, expl
 The program for the evening is:
 
 - 16:15 - 16:25: Welcome by Tue Henriksen (10 min)
-- 16:30 - 16:55: Why learn Rust if I know a memory-safe language? by Philip Kristoffersen (20+5 min)
-- 17:00 - 17:10: A word from our sponsor [DIS] (10 min)
-- 17:10 - 17:40: Light dinner sponsored by [DIS]
-- 17:40 - 18:25: Designing reliable systems by Tue Henriksen (40+5 min)
-- 18:30 - 18:35: Closing remarks (5 min) by Philip?
+- 16:25 - 17:10: Designing reliable systems by Tue Henriksen (40+5 min)
+- 17:15 - 17:25: A word from our sponsor [DIS] (10 min)
+- 17:25 - 17:55: Light dinner sponsored by [DIS]
+- 17:55 - 18:20: Why learn Rust if I know a memory-safe language? by Philip Kristoffersen (20+5 min)
+- 18:25 - 18:30: Closing remarks (5 min) by Tue Henriksen
 
 ## Why learn Rust if I know a memory-safe language?
 [Philip Kristoffersen][pk] is a senior software consultant (Full-stack & Architect) at [BRØLSTÆRK] and works with everything from 3D Visualization to Microservices.
