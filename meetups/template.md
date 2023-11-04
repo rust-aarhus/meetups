@@ -1,4 +1,6 @@
-# Rust Aarhus meetup #n at m
+# Rust Aarhus meetup at [VENUE]
+
+Date: [DATE]
 
 Rust Aarhus invites you to this free meetup for all interested in the programming language [Rust].
 
