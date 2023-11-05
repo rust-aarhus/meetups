@@ -12,7 +12,7 @@ The program for the evening is:
 - 19:00 - 19:45: Light dinner sponsored by Danske Commodities
 - 19:45 - 20:45: TBD by Alice Ryhl (45 + 15 min)
 - 20:50 - 21:00: Closing remarks (10 min)
-- 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
+- 21:00: Let's continue the discussion at the nearby bar Peter Gift (M. P. Bruuns Gade 28)
 
 ## Advent of code
 [Niels Kristian Skovmand][ns] is a Software Engineer at CrowdStrike, working with frontend web development on [Falcon LogScale][logscale]. He has been a Rust enthusiast ever since doing the Rustlings course 2 years ago.
