@@ -19,10 +19,12 @@ The program for the evening is:
 
 [ADD DESCRIPTION OF THE TALK HERE]
 
-## [TITLE OF ALICE'S TALK]
-[INFORMATION ABOUT THE SPEAKER]
+## Shared mutable state in Rust
+[Alice Ryhl][alice] is one of the core maintainers for Tokio. She is also a software engineer at Google, where she works on introducing Rust to the Linux kernel.
 
-[ADD DESCRIPTION OF THE TALK HERE]
+Rust's safety guarantees are based on the principle that you can have mutation or sharing, but not both. In this talk, you will see how to get both at the same time. There will be a special focus on how this is done in async code using Tokio, but we will also see how it is done in non-async code.
+
+[alice]: https://ryhl.io/
 
 ## Location
 This meetup will be at Danske Commodities, Jægergårdsgade 118 in Aarhus.
