@@ -10,7 +10,7 @@ The program for the evening is:
 - 18:20 - 18:45: Advent of code by Niels Kristian Skovmand (20 + 5 min)
 - 18:50 - 19:00: A word from our sponsor (10 min)
 - 19:00 - 19:45: Light dinner sponsored by Danske Commodities
-- 19:45 - 20:45: TBD by Alice Ryhl (45 + 15 min)
+- 19:45 - 20:45: Shared mutable state in Rust by Alice Ryhl (45 + 15 min)
 - 20:50 - 21:00: Closing remarks (10 min)
 - 21:00: Let's continue the discussion at the nearby bar Peter Gift (M. P. Bruuns Gade 28)
 
