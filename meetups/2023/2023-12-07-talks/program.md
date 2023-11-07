@@ -34,4 +34,5 @@ If you have special needs regarding food (allergies, vegan, etc.), please forwar
 
 [rust]: https://www.rust-lang.org/
 [ns]: https://www.linkedin.com/in/nskovmand/
+[alice]: https://ryhl.io/
 [logscale]: https://www.crowdstrike.com/products/observability/falcon-logscale/
