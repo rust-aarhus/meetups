@@ -17,7 +17,11 @@ The program for the evening is:
 ## Advent of code
 [Niels Kristian Skovmand][ns] is a Software Engineer at CrowdStrike, working with frontend web development on [Falcon LogScale][logscale]. He has been a Rust enthusiast ever since doing the Rustlings course 2 years ago.
 
-[ADD DESCRIPTION OF THE TALK HERE]
+Getting started with Advent of Code 2023 in Rust 🎄
+
+We will live code the solution to one of the first [AoC2023][aoc2023] days in Rust. We will read the puzzle input from stdin, parse the input, and solve two puzzles. We will also write nice tests, and if time, add a GitHub Action to ensure Santa's software runs as intended going forward.
+
+The talk is a beginner level talk in Rust.
 
 ## Shared mutable state in Rust
 [Alice Ryhl][alice] is one of the core maintainers for Tokio. She is also a software engineer at Google, where she works on introducing Rust to the Linux kernel.
@@ -36,3 +40,4 @@ If you have special needs regarding food (allergies, vegan, etc.), please forwar
 [ns]: https://www.linkedin.com/in/nskovmand/
 [alice]: https://ryhl.io/
 [logscale]: https://www.crowdstrike.com/products/observability/falcon-logscale/
+[aoc2023]: https://adventofcode.com/2023
