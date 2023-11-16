@@ -16,14 +16,22 @@ The program for the evening is:
 - 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
 
 ## [TITLE OF FIRST TALK]
-[INFORMATION ABOUT THE SPEAKER]
+
+By [SPEAKER]
 
 [ADD DESCRIPTION OF THE TALK HERE]
+
+[INFORMATION ABOUT THE SPEAKER]
+
 
 ## [TITLE OF SECOND TALK]
-[INFORMATION ABOUT THE SPEAKER]
+
+By [SPEAKER]
 
 [ADD DESCRIPTION OF THE TALK HERE]
+
+[INFORMATION ABOUT THE SPEAKER]
+
 
 ## Location
 This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
