@@ -7,14 +7,15 @@ Rust Aarhus invites you to this free meetup for all interested in the programmin
 The program for the evening is:
 
 - 18:05 - 18:15: Welcome (10 min)
-- 18:20 - 18:45: Advent of code by Niels Kristian Skovmand (20 + 5 min)
+- 18:20 - 18:45: Getting started with Advent of code 2023 in Rust by Niels Kristian Skovmand (20 + 5 min)
 - 18:50 - 19:00: A word from our sponsor (10 min)
-- 19:00 - 19:45: Light dinner sponsored by Danske Commodities
-- 19:45 - 20:45: Shared mutable state in Rust by Alice Ryhl (45 + 15 min)
-- 20:50 - 21:00: Closing remarks (10 min)
+- 19:00 - 19:40: Light dinner sponsored by Danske Commodities
+- 19:40 - 20:40: Shared mutable state in Rust by Alice Ryhl (45 + 15 min)
+- 20:45 - 20:55: Book Lottery
+- 20:55 - 21:00: Closing remarks (10 min)
 - 21:00: Let's continue the discussion at the nearby bar Peter Gift (M. P. Bruuns Gade 28)
 
-## Advent of code
+## Getting started with Advent of code 2023 in Rust
 [Niels Kristian Skovmand][ns] is a Software Engineer at CrowdStrike, working with frontend web development on [Falcon LogScale][logscale]. He has been a Rust enthusiast ever since doing the Rustlings course 2 years ago.
 
 Getting started with Advent of Code 2023 in Rust 🎄
