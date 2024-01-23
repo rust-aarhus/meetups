@@ -9,11 +9,11 @@ The program for the evening is:
 - 18:05 - 18:10: Welcome (5 min)
 - 18:15 - 19:00: "Building serverless apps, using WASI, WebAssembly components using Rust" by Mikkel Mørk Hegnhøj (45 min incl Q&A)
 - 19:00 - 19:10: A word from our sponsor (5-10 min)
-- 19:10 - 19:55: Light dinner sponsored by Partisia (45 min)
+- 19:10 - 19:20: Using Rust at Partisia by Partisia (10 min)
+- 19:20 - 19:55: Light dinner sponsored by Partisia (45 min)
 - 19:55 - 20:40: "Zero-copy deserialization in Rust" by Gustav Wengel (45 min incl Q&A)
 - 20:45 - 20:55: Book Lottery (10 min)
 - 20:55 - 21:00: Closing remarks (5 min)
-- 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
 
 
 ## Building serverless apps, using WASI, WebAssembly components using Rust
@@ -33,7 +33,7 @@ Gustav has been working with Rust for the past two years, building serverless RE
 
 
 ## Location
-This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
+This meetup will be at INCUBA Katrinebjerg, Lille Auditorium, Åbogade 15, 8200 Aarhus. Please feel free to use the event chat on meetup to organize transportation if needed.
 
 ## Food
 We will try to have a combination of vegan and non-vegan food. If you have special needs regarding food (e.g. allergies), please forward your request directly to rustaarhus@gmail.com.
