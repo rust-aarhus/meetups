@@ -1,14 +1,14 @@
 ---
-name: Event - Hack and Learn
-about: New hack and learn event
+name: Event - Talk Night
+about: New talk night event
 title: Meetup [DATE]
-labels: event:hack, need:sponsor, need:venue
+labels: event:talks, need:sponsor, need:talks, need:venue
 assignees: ''
 
 ---
 
 ### Event
-- Type: Hack and Learn
+- Type: Talk Night
 - Start time: 18:00
 - End time: 21:00
 - Host:
@@ -22,3 +22,6 @@ assignees: ''
 - Max capacity:
 - Directions:
 - Nearby bar:
+
+### Talks
+- [speaker name]/[title] - [talk duration][Q&A duration]
