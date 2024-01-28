@@ -3,11 +3,11 @@
 ## Talk Nights
 - 6 weeks before
     - Announce the date of the meetup (Call for participants if needed)
+    - Add the event to the Rust Community Calendar
 - 5 weeks before
     - Create a pull-request for the program and ask speakers to review
 - 4 weeks before
     - Publish the program on meetup.com
-    - Add the event to the Rust Community Calendar
 - 1 week before
     - Ask speakers for more precise length of their speaks and update the program
     - Print Rust Aarhus posters if needed
