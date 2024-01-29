@@ -28,8 +28,6 @@
     - Add the event to the Rust Community Calendar
 - 1 week before
     - Order drinks from the Café
-- 30 minutes before
-    - Put up Rust Aarhus posters, so people can easily find the venue if needed
 - 15 minutes before
     - Meet and greet the audience as they arrive
 - After the meetup
