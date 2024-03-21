@@ -37,7 +37,7 @@ By [SPEAKER]
 This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
 
 ## Food
-If you have special needs regarding food (allergies, vegan, etc.), please forward your request directly to [INSERT NAME OF HOST].
+We will try to have a combination of vegan and non-vegan food. If you have special needs regarding food (e.g. allergies), please forward your request to tue@rustaarhus.dk.
 
 
 [rust]: https://www.rust-lang.org/
