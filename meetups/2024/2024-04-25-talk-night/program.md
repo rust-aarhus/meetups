@@ -31,13 +31,17 @@ By [SPEAKER]
 [INFORMATION ABOUT THE SPEAKER]
 
 
-## [TITLE OF THIRD TALK]
+## Building Rust for Production
 By [Kasper Juul Hermansen][kjh]
 
-[ADD DESCRIPTION OF THE TALK HERE]
+Building [Rust] with [Cargo] is quite easy - until it is isn't. In this talk I will go into how to build
+[Rust] for production so that you get the most out of [Cargo], solve common pitfalls, and get a fast 
+and effective development environment. As a bonus I am gonna give a sneak peek of how to build [Rust]
+effectively for a [Docker] container using [Dagger].
 
-[INFORMATION ABOUT THE SPEAKER]
-
+Kasper is a Developer Experience Engineer working at Lunar where he currently spends his time working 
+on developer tooling, and building high performance data application, mostly in [golang]. 
+In his spare time he maintains the [dagger rust sdk], and moonlights as a [Rust] developer
 
 ## Location
 This meetup will be at Margrethepladsen 4, 3, 8000 Aarhus (bottom floor of Scandinavian Center).
@@ -50,3 +54,7 @@ We will try to have a combination of vegan and non-vegan food. If you have speci
 [mft]: https://mft-energy.com/
 [ccl]: https://www.linkedin.com/in/cosminconstantinlazar/
 [kjh]: https://github.com/kjuulh
+[dagger]: https://dagger.io/
+[dagger rust sdk]: https://github.com/dagger/dagger/tree/main/sdk/rust
+[docker]: https://www.docker.com/
+[golang]: https://go.dev/
