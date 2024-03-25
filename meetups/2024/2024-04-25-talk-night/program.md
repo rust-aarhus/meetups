@@ -37,6 +37,13 @@ on developer tooling, and building high performance data application, mostly in 
 In his spare time he maintains the [dagger rust sdk], and moonlights as a Rust developer
 
 
+## Rust, Flutter and AI for Nature Conservation
+By [José Díaz][jid]
+
+[Are we GUI yet?](https://areweguiyet.com/) the answer is yes. Rust powers incredibly efficient and speedy software, meanwhile Flutter makes crafting stunning UIs a breeze. What's even better? Combining the two is a piece of cake! Join me as I dive into how this seamless fusion not only makes development a joy but also unlocks some seriously practical AI inference workflows.
+
+José is an Engineer with a passion for AI research in environmental applications.  With experience in Full Stack and Machine Learning Engineering, he focuses on building new tools that can help protect biodiversity and nature across Chile and the world.
+
 ## Location
 This meetup will be at Margrethepladsen 4, 3, 8000 Aarhus (bottom floor of Scandinavian Center).
 
@@ -49,6 +56,7 @@ We will try to have a combination of vegan and non-vegan food. If you have speci
 [mft]: https://mft-energy.com/
 [ccl]: https://www.linkedin.com/in/cosminconstantinlazar/
 [kjh]: https://github.com/kjuulh
+[jid]: https://www.linkedin.com/in/josediazrrnn/
 [dagger]: https://dagger.io/
 [dagger rust sdk]: https://github.com/dagger/dagger/tree/main/sdk/rust
 [docker]: https://www.docker.com/
