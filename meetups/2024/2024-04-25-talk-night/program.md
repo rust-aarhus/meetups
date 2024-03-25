@@ -56,6 +56,7 @@ We will try to have a combination of vegan and non-vegan food. If you have speci
 [mft]: https://mft-energy.com/
 [ccl]: https://www.linkedin.com/in/cosminconstantinlazar/
 [kjh]: https://github.com/kjuulh
+[jid]: https://www.linkedin.com/in/josediazrrnn/
 [dagger]: https://dagger.io/
 [dagger rust sdk]: https://github.com/dagger/dagger/tree/main/sdk/rust
 [docker]: https://www.docker.com/
