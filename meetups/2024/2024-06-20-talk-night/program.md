@@ -43,3 +43,4 @@ We will try to have a combination of vegan and non-vegan food. If you have speci
 
 [rust]: https://www.rust-lang.org/
 [il]: https://github.com/luchev
+[trifork]: https://trifork.com/
