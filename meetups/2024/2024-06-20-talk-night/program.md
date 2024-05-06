@@ -14,7 +14,7 @@ The program for the evening is:
 - 19:45 - 20:35: Architecturing services with dependency injection by Ivan Luchev (40 min + 10 min Q&A)
 - 20:40 - 20:50: 
 - 20:50 - 21:00: Closing remarks (10 min)
-- 21:00: Let's continue the discussion at the nearby bar.
+- 21:00: Let's continue the discussion at a nearby bar.
 
 ## [TITLE OF FIRST TALK]
 
