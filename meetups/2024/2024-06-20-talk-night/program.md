@@ -10,7 +10,7 @@ The program for the evening is:
 - 18:05 - 18:15: Welcome (10 min)
 - 18:20 - 18:50: Free slot for a talk(s)
 - 18:50 - 19:00: A word from our sponsor (5-10 min)
-- 19:00 - 19:45: Light dinner sponsored by Trifork
+- 19:00 - 19:45: Light dinner sponsored by [Trifork]
 - 19:45 - 20:35: Architecturing services with dependency injection by Ivan Luchev (40 min + 10 min Q&A)
 - 20:40 - 20:50: 
 - 20:50 - 21:00: Closing remarks (10 min)
