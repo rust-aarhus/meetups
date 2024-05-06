@@ -31,7 +31,7 @@ By [Ivan Luchev][il]
 
 Ivan will talk about how one can architecture an app following the dependency inversion principle. We will do this by building a simple app made out of modules that interact with each other by relying on their interfaces. To achieve this, we will talk about dependency injection — how to use it, common patterns, and pitfalls.
 
-Ivan Luchev is...
+Ivan has been a Software Engineer at Trifork for the last 2 years, working on a Data Platform. He's coming from a background of large scale data processing with Go. His experience with Rust spans 3 years, mainly working on side projects and research.
 
 
 ## Location
