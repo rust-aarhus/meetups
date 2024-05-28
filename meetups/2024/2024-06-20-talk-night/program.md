@@ -7,14 +7,14 @@ Rust Aarhus invites you to this free meetup for all interested in the programmin
 The program for the evening is:
 [OR   We are still working on the program, but it will be something like the following:]
 
-- 18:05 - 18:15: Welcome (10 min)
-- 18:20 - 18:50: Free slot for a talk(s)
-- 18:50 - 19:00: A word from our sponsor (5-10 min)
-- 19:00 - 19:45: Light dinner sponsored by [Trifork]
-- 19:45 - 20:35: Architecturing services with dependency injection by Ivan Luchev (40 min + 10 min Q&A)
-- 20:40 - 20:50: 
-- 20:50 - 21:00: Closing remarks (10 min)
+- 18:05 - 18:10: Welcome (5 min)
+- 18:15 - 19:05: Creating Rust-Powered Text Adventures by Jörn (40 min + 10 min Q&A)
+- 19:05 - 19:50: Light dinner sponsored by [Trifork]
+- 19:50 - 20:00: A word from our sponsor (5-10 min)
+- 20:05 - 20:55: Architecturing services with dependency injection by Ivan Luchev (40 min + 10 min Q&A)
+- 20:55 - 21:00: Closing remarks (5 min)
 - 21:00: Let's continue the discussion at a nearby bar.
+
 
 ## Creating Rust-Powered Text Adventures
 
