@@ -16,13 +16,18 @@ The program for the evening is:
 - 20:50 - 21:00: Closing remarks (10 min)
 - 21:00: Let's continue the discussion at a nearby bar.
 
-## [TITLE OF FIRST TALK]
+## Creating Rust-Powered Text Adventures
 
-By [SPEAKER]
+By Jörn
 
-[ADD DESCRIPTION OF THE TALK HERE]
+You read the description of a meetup talk. Apparently the talk is about open world text adventures. As your hands fly over your keyboard to search for the right keywords, you notice that there is friendly crab sitting in the corner of the screen. You rest your hands in mid-air as the crab starts to speak: "Have you thought about writing your own text adventures using a cool new Rust-based stack?" What do you say?
 
-[INFORMATION ABOUT THE SPEAKER]
+* Sounds awesome, tell me more! -> Go to section 42
+* I want to play some games! -> Go to section 100
+* I'm just here for the free food and the hygge -> Go to section 77
+
+
+Jörn is a bioinformatician who is curious about many things living and digital.
 
 
 ## Architecturing services with dependency injection
