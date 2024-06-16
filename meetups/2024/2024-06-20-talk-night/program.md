@@ -8,11 +8,11 @@ The program for the evening is:
 [OR   We are still working on the program, but it will be something like the following:]
 
 - 18:05 - 18:10: Welcome (5 min)
-- 18:15 - 19:05: Creating Rust-Powered Text Adventures by Jörn (40 min + 10 min Q&A)
-- 19:05 - 19:50: Light dinner sponsored by [Trifork]
-- 19:50 - 20:00: A word from our sponsor (5-10 min)
-- 20:05 - 20:55: Architecturing services with dependency injection by Ivan Luchev (40 min + 10 min Q&A)
-- 20:55 - 21:00: Closing remarks (5 min)
+- 18:15 - 19:00: Creating Rust-Powered Text Adventures by Jörn (40 min + 5 min Q&A)
+- 19:00 - 19:45: Light dinner sponsored by [Trifork]
+- 19:45 - 19:55: A word from our sponsor (5-10 min)
+- 20:00 - 20:45: Architecturing services with dependency injection by Ivan Luchev (40 min + 5 min Q&A)
+- 20:45 - 21:00: Closing remarks (15 min)
 - 21:00: Let's continue the discussion at a nearby bar.
 
 
