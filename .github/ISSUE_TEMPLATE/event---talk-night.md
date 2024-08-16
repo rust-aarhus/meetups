@@ -1,7 +1,7 @@
 ---
 name: Event - Talk Night
 about: New talk night event
-title: Meetup [DATE]
+title: Talk Night [DATE]
 labels: event:talks, need:sponsor, need:talks, need:venue
 assignees: ''
 
@@ -11,7 +11,6 @@ assignees: ''
 - Type: Talk Night
 - Start time: 18:00
 - End time: 21:00
-- Host:
 
 ### Sponsor
 - Sponsor of venue: [company name]
@@ -21,7 +20,6 @@ assignees: ''
 - Name and address:
 - Max capacity:
 - Directions:
-- Nearby bar:
 
 ### Talks
 - [speaker name]/[title] - [talk duration][Q&A duration]

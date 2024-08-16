@@ -1,7 +1,7 @@
 ---
 name: Event - Hack Night
 about: New hack night event
-title: Meetup [DATE]
+title: Hack Night [DATE]
 labels: event:hack, need:sponsor, need:venue
 assignees: ''
 
@@ -11,7 +11,6 @@ assignees: ''
 - Type: Hack Night
 - Start time: 18:00
 - End time: 21:00
-- Host:
 
 ### Sponsor
 - Sponsor of venue: [company name]
