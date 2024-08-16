@@ -20,4 +20,3 @@ assignees: ''
 - Name and address:
 - Max capacity:
 - Directions:
-- Nearby bar:
