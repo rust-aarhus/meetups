@@ -1,4 +1,7 @@
+![Rust Aarhus Logo](./logo/full/logo.png)
+
 # Rust Aarhus Meetups
+
 Rust Aarhus is a user group for the programming language named Rust. The user group will arrange events in the area of Aarhus, Denmark.
 
 ## Arranging a meetup
