@@ -2,17 +2,17 @@
 
 Date: 2024-09-26
 
-Rust Aarhus and [The Alexandra Institute][ai] invites you to this free meetup for all interested in the programming language [Rust].
+Rust Aarhus and [Alexandra Instituttet][ai] invites you to this free meetup for all interested in the programming language [Rust].
 
 The program for the evening is:
 
 - 18:05 - 18:10: Welcome (5 min)
 - 18:15 - 19:00: SecGPT: using LLMs for secure Rust code (30+15 min)
 - 19:00 - 19:10: A word from our sponsor (5-10 min)
-- 19:10 - 19:55: Light dinner sponsored by [INSERT SPONSER NAME]
-- 19:55 - 20:45: Free slot talks
+- 19:10 - 20:10: Light dinner sponsored by Alexandra Instituttet
+- 20:15 - 20:45: Hax - Rust for high-assurance cryptography (30 min)
 - 20:50 - 21:00: Closing remarks (10 min)
-- 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
+- 21:00: Let's continue the discussion at a nearby bar
 
 ## SecGPT: using LLMs for secure Rust code
 
@@ -31,16 +31,18 @@ The talk is also an invitation to collect feedback and experiences in the use of
 
 [ The talk presents some of the outcomes of an explorative project supported by the CenSec cluster. ]
 
-[INFORMATION ABOUT THE SPEAKERS]
 
+## Hax - Rust for high-assurance cryptography
 
-## [TITLE OF SECOND TALK]
+By [Bas Spitters][bs]
 
-By [SPEAKER]
+Bas will present the Hax toolchain for high-assurance cryptography in Rust.
+[Hax] uses Rust as a specification language for cryptographic primitives and protocols,
+together with formal methods tools to link those specifications to highly optimized implementations.
+Hax is being used in projects together with Microsoft research, Google, the Signal Foundation, ...
+There is also interest from the IETF, which standardizes internet protocols.
 
-[ADD DESCRIPTION OF THE TALK HERE]
-
-[INFORMATION ABOUT THE SPEAKER]
+Bas Spitters is associate professor CS, Aarhus University.
 
 
 ## Location
@@ -56,3 +58,4 @@ We will try to have a combination of vegan and non-vegan food. If you have speci
 [mwm]: https://www.linkedin.com/in/mikkel-wienberg-madsen-9b3192170/
 [glm]: https://www.linkedin.com/in/gertlm/
 [bs]: https://www.linkedin.com/in/basspitters/
+[hax]: https://github.com/hacspec/hax
