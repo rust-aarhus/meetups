@@ -1,4 +1,4 @@
-![Rust Aarhus Logo](./logo/full/logo.png)
+![Rust Aarhus Logo](./logo/full/logo-white-outline.png)
 
 # Rust Aarhus Meetups
 
