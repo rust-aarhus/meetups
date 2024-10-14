@@ -13,7 +13,8 @@ The program for the evening is:
 - 19:00 - 19:45: Light dinner sponsored by [INSERT SPONSER NAME]
 - 19:45 - 20:45: One or more talks
 - 20:50 - 21:00: Closing remarks (10 min)
-- 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
+- 21:00: Let's continue the discussion at a nearby bar
+
 
 ## [TITLE OF FIRST TALK]
 
@@ -35,6 +36,7 @@ By [SPEAKER]
 
 ## Location
 This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
+
 
 ## Food
 We will try to have a combination of vegan and non-vegan food. If you have special needs regarding food (e.g. allergies), please forward your request to tue@rustaarhus.dk.
