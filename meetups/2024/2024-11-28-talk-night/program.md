@@ -6,16 +6,15 @@ Date: 2024-11-28
 
 Rust Aarhus invites you to this free meetup for all interested in the programming language [Rust].
 
-We are still working on the program, but it will be something like the following:
+The program for the evening is as follows:
 
 - 18:05 - 18:15: Welcome (10 min)
 - 18:20 - 18:55: Unlocking Performance: A Beginner's Guide to Python-Rust Integration with PyO3 By Thomas Fisker Christensen (25+10 min)
 - 18:55 - 19:05: A word from our sponsor (5-10 min)
-- 19:05 - 19:50: Light dinner sponsored by [Lind Capital][lc]
-- 19:55 - 20:15: OPEN TIMESLOT (20 min)
-- 20:15 - 20:50: From Furnace to Firmware: A Hobbyist Embedded Rust Adventure with ESP32 By Thomas Fisker Christensen (25+10 min)
-- 20:50 - 21:00: Closing remarks (10 min)
-- 21:00: Let's continue the discussion at the nearby bar [INSERT BAR NAME].
+- 19:05 - 20:00: Light dinner sponsored by [Lind Capital][lc]
+- 20:05 - 20:40: From Furnace to Firmware: A Hobbyist Embedded Rust Adventure with ESP32 By Thomas Fisker Christensen (25+10 min)
+- 20:45 - 21:00: Closing remarks (15 min)
+- 21:00: Let's continue the discussion at a nearby bar
 
 
 ## Unlocking Performance: A Beginner's Guide to Python-Rust Integration with PyO3
