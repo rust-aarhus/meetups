@@ -7,7 +7,9 @@ Rust Aarhus is a user group for the programming language named Rust. The user gr
 ## Preparing a talk
 If you need information about preparing a talk, you should look [here](talks.md). 
 
-To propose a new talk, please find an event issue and comment on that. You will find event issues where we are still looking for talks right [here][call-for-papers].
+To propose a new talk, please find an event issue and create a sub-issue for your talk (use the template "Talk Proposal").
+
+You will find event issues where we are still looking for talks right [here][call-for-papers].
 
 ## Sponsoring a meetup
 If you would like to sponsor a meetup, you will find a list of meetups without a sponsor here [here][needs-sponsor].
