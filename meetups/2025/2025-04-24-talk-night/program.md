@@ -25,7 +25,7 @@ By Jonas Agger Jørgensen
 [INFORMATION ABOUT THE SPEAKER]
 
 
-## Packing My Bits: A Brief Journey in Memory-Efficient Float Storage by Jakob Jens Kumke
+## Packing My Bits: A Brief Journey in Memory-Efficient Float Storage
 
 By Jakob Jens Kumke
 
