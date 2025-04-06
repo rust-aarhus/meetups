@@ -29,7 +29,7 @@ By Jonas Agger Jørgensen
 
 By Jakob Jens Kumke
 
-A (Technical) Dive/Exploration into/of Float Scaling, ZigZag Encoding, Varints, Bitpacking, and SIMD.
+An Exploration of Float Scaling, ZigZag Encoding, Varints, Bitpacking, and SIMD in Rust.
 
 Jakob Jens Kumke is software developer at Rusty@MFT-Energy, driven by a strong passion for the Rust programming language. Focused on delivering correct, efficient, and high-performance solutions within the energy trading domain.
 
