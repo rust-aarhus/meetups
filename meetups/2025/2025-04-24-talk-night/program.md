@@ -7,7 +7,7 @@ Rust Aarhus invites you to this free meetup for all interested in the programmin
 We are still working on the program, but it will be something like the following:
 
 - 18:05 - 18:15: Welcome (10 min)
-- 18:20 - 18:50: [TITLE OF TALK] by Jonas Agger Jørgensen (~20 + 10 min (guess))
+- 18:20 - 18:50: Await, there's more! by Jonas Agger Jørgensen (25 + 10 min)
 - 18:50 - 19:00: A word from our sponsor (5-10 min)
 - 19:00 - 20:00: Light dinner sponsored by MFT Energy
 - 20:00 - 20:30: Packing My Bits: A Brief Journey in Memory-Efficient Floats by Jakob Jens Kumke (~20 + 10 min)
