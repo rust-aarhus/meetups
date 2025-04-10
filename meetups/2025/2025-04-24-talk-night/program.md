@@ -20,7 +20,7 @@ We are still working on the program, but it will be something like the following
 
 By Jonas Agger Jørgensen
 
-[ADD DESCRIPTION OF THE TALK HERE]
+During this beginner level talk, we'll walk through the idea of async/await, and it's implementation. We'll discover some of the paradigms used through a simple implementation of an Async Executor. We'll then also talk through of the pro's and con's of different executor patterns, and how you can avoid some of the common pitfalls.
 
 [INFORMATION ABOUT THE SPEAKER]
 
