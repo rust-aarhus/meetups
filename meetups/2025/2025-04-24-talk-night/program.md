@@ -22,7 +22,7 @@ By Jonas Agger Jørgensen
 
 During this beginner level talk, we'll walk through the idea of async/await, and it's implementation. We'll discover some of the paradigms used through a simple implementation of an Async Executor. We'll then also talk through of the pro's and con's of different executor patterns, and how you can avoid some of the common pitfalls.
 
-[INFORMATION ABOUT THE SPEAKER]
+Jonas works at MFT-Energy as a Tech Lead for Europe-Intraday & Algo trading, building continuous & automatic trading applications, where he applies Rust to the energy trading world.
 
 
 ## Packing My Bits: A Brief Journey in Memory-Efficient Floats
