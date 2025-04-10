@@ -16,7 +16,7 @@ We are still working on the program, but it will be something like the following
 - 21:00: Let's continue the discussion at a nearby bar
 
 
-## [TITLE TALK]
+## Await, there's more!
 
 By Jonas Agger Jørgensen
 
