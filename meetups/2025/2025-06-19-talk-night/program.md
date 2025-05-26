@@ -1,4 +1,4 @@
-# Rust Aarhus meetup at [VENUE]
+# Rust Aarhus meetup at Trifork
 
 Date: 2025-06-19
 
@@ -10,7 +10,7 @@ The program for the evening is:
 - 18:05 - 18:15: Welcome (10 min)
 - 18:15 - 18:45: Gaussian Splatting in Rust by José Díaz (20+10 min)
 - 18:50 - 19:00: A word from our sponsor (5-10 min)
-- 19:00 - 19:45: Light dinner sponsored by [INSERT SPONSER NAME]
+- 19:00 - 19:45: Light dinner sponsored by Trifork
 - 19:45 - 20:45: Building a service in Rust by Kasper J. Hermansen (60 min, we take Q/A as we go)
 - 20:50 - 21:00: Closing remarks (10 min)
 - 21:00: Let's continue the discussion at a nearby bar
@@ -37,7 +37,7 @@ Kasper is a software engineer that has worked on a wide variety of applications,
 
 
 ## Location
-This meetup will be at [INSERT ADDRESS HERE]. Please feel free to use the event chat on meetup to organize transportation if needed.
+This meetup will be at Trifork, Fiskerivej 2h, 8000 Aarhus. Please feel free to use the event chat on meetup to organize transportation if needed.
 
 
 ## Food
