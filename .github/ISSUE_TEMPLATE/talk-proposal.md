@@ -2,12 +2,12 @@
 name: Talk Proposal
 about: Propose a talk for a Talk Night
 title: Talk Proposal
-labels: 
-assignees: ''
-
+labels: talk
+assignees: ""
 ---
 
 # Talk Proposal
+
 - Title of talk:
 - Name of speaker:
 - Duration of talk excluding Q&A:
@@ -16,6 +16,4 @@ assignees: ''
 
 ## Description of talk
 
-
 ## Speaker bio
-
