@@ -10,8 +10,9 @@ The program for the evening is:
 - 18:20 - 18:50: Securely running un-trusted code using WebAssembly and Rust by Mikkel Mørk Hegnhøj (20 + 10 min)
 - 18:50 - 19:00: A word from our sponsor
 - 19:00 - 20:00: Light dinner sponsored by Mjølner Informatics
-- 20:00 - 20:35: Testing Tools and Tricks in Rust by Gustav Wengel (25 + 10 min)
-- 20:40 - 20:50: Book Raffle (10 min)
+- 20:00 - 20:30: Testing Tools and Tricks in Rust by Gustav Wengel (20 + 10 min)
+- 20:35 - 20:45: Lightning Talk? (10 min)
+- 20:45 - 20:50: Book Raffle (10 min)
 - 20:50 - 21:00: Closing remarks (10 min)
 - 21:00: Let's continue the discussion at a nearby bar
 
@@ -34,13 +35,10 @@ This talk will cover some common tips and tricks for making testing in Rust fast
 
 I'm thinking we can cover in a roughly prioritized list, depending on the time we have available:
 
-- Returning Results instead of calling .unwrap() inside tests
 - Using "rstest" for test parameterization and fixture handling
 - Using "insta" for snapshot testing
 - Using "pretty_assertions" for more colorful diff views
 - Writing expectation messages inside your "assert_eq" calls, instead of as comments.
-- Running tests in serial mode if you need that with "serial_tests"
-- Using "nextest" to speed up tests when you have multiple crates in a workspace
 
 And things along that line!
 
