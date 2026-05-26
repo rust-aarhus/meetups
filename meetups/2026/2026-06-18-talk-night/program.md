@@ -7,28 +7,18 @@ Join us for an evening of talks, food, and networking at Danske Commodities in A
 The program for the evening is:
 
 - 18:05 - 18:10: Welcome (5 min)
-- 18:10 - 18:50: Federated massaging in Tauri by Brian Pedersen (30 + 10 min)
-- 18:50 - 19:00: A word from our sponsor
-- 19:00 - 20:00: Light dinner sponsored by Danske Commodities
-- 20:00 - 20:40: Nighttime Adventures - exploring 3 experimental features for control flow by Mikkel Wienberg Madsen (30 + 10 min)
+- 18:10 - 19:00: Halloy - A native app for a dead prototcol by Casper Rogild Storm (40 + 10 min)
+- 19:00 - 19:10: A word from our sponsor
+- 19:10 - 20:10: Light dinner sponsored by Danske Commodities
+- 20:10 - 20:50: Nighttime Adventures - exploring 3 experimental features for control flow by Mikkel Wienberg Madsen (30 + 10 min)
 - 20:40 - 21:00: Book Raffle and closing remarks (10 min)
 - 21:00: Let's continue the discussion at a nearby bar
 
-## Federated massaging in Tauri
+## Halloy - A native app for a dead prototcol
 
-by Brian Pedersen
+by Casper Rogild Storm
 
-Social platforms have become civic infrastructure, yet WhatsApp, Facebook Messenger, and even Signal keep us locked in, centralized, and dependent. We're building something different: a messaging app on top of email protocols, with a gradual upgrade path to modern federated protocols like Matrix and AT.
-
-Email is already federated, interoperable, and contains an implicit trust network based on your conversation history. That's our cold-start solution. The real challenge? Delivering the real-time UX users expect, typing indicators, reactions, E2EE, group chats, on top of protocols that were never designed for it, which is where the easy, gradual upgrade path comes in.
-
-We're doing it in Rust + Tauri, shipping across every major mobile and desktop platform.
-
-Come hear about the technical journey, the open source vision, why we think this is worth building, and why we'd love your help.
-
-Brian Pedersen is a developer at Trifork by day, and spends his evenings building eddie.chat, an open-source, privacy-first chat client built on top of email. He also contributes to the rebuild.net initiative, a Danish NGO and catalyst for the new generation of European social platforms.
-
-- [Brian on LinkedIn](https://dk.linkedin.com/in/brian-pedersen-dk)
+A talk about building [Halloy](https://github.com/squidowl/halloy), a modern IRC client written in Rust, and why open protocols still matter in today’s world of closed platforms. The presentation covers the history of IRC, lessons learned from maintaining an open source project, and how Halloy is built using Rust and Iced.
 
 ## Nighttime Adventures - exploring 3 experimental features for control flow
 
