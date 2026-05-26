@@ -7,7 +7,7 @@ Join us for an evening of talks, food, and networking at Danske Commodities in A
 The program for the evening is:
 
 - 18:05 - 18:10: Welcome (5 min)
-- 18:10 - 19:00: Halloy - A native app for a dead prototcol by Casper Rogild Storm (40 + 10 min)
+- 18:10 - 19:00: Halloy - A native app for a dead prototcol by Casper Storm (40 + 10 min)
 - 19:00 - 19:10: A word from our sponsor
 - 19:10 - 20:10: Light dinner sponsored by Danske Commodities
 - 20:10 - 20:50: Nighttime Adventures - exploring 3 experimental features for control flow by Mikkel Wienberg Madsen (30 + 10 min)
@@ -16,9 +16,11 @@ The program for the evening is:
 
 ## Halloy - A native app for a dead prototcol
 
-by Casper Rogild Storm
+by Casper Storm
 
 A talk about building [Halloy](https://github.com/squidowl/halloy), a modern IRC client written in Rust, and why open protocols still matter in today’s world of closed platforms. The presentation covers the history of IRC, lessons learned from maintaining an open source project, and how Halloy is built using Rust and Iced.
+
+Casper Storm is a software engineer who loves building great products, especially open source software. I also love riding my gravel bike, writing Rust, and being a dad to 3 boys.
 
 ## Nighttime Adventures - exploring 3 experimental features for control flow
 
