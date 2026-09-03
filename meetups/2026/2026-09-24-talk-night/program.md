@@ -10,7 +10,7 @@ The program for the evening is:
 - 18:15 - 18:50: Beyond grep: structure-aware search for Rust code with srcsearch by Hamid Alavi Toussi (30 + 5 min)
 - 18:50 - 19:00: A word from our sponsor
 - 19:00 - 19:50: Light dinner sponsored by SkyTEM
-- 19:50 - 20:10: SkyTEMs Rust journey by Andreas Corneliussen (15 + 5 min)
+- 19:50 - 20:10: A Rust journey by Andreas Corneliussen (15 + 5 min)
 - 20:15 - 20:50: The Facets of Facet by Alexandra Østermark (30 + 5 min)
 - 20:50 - 21:00: Book Raffle and closing remarks (10 min)
 
@@ -35,7 +35,7 @@ Hamid Alavi Toussi is a software engineer at Elsevier. He is interested in searc
 - [srcsearch on GitHub](https://github.com/jslambda/srcsearch)
 - [srcsearch on Crates.io](https://crates.io/crates/srcsearch)
 
-## SkyTEMs Rust journey
+## A Rust journey
 
 by Andreas Corneliussen
 
