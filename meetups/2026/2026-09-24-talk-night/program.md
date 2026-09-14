@@ -39,7 +39,7 @@ Hamid Alavi Toussi is a software engineer at Elsevier. He is interested in searc
 
 by Andreas Corneliussen
 
-A talk about the journey we have had at SkyTEM. Starting at python build on embedded yocto, then python in containers on embedded yocto and now adding rust into the mix and liking it.
+A talk about the benefits of rust compared to python when integrated into the yocto embedded linux build environment.
 
 Andreas is Development Engineer at SkyTEM. Master of electronics. Experience in embedded programming using FPGAs, microcontrollers with bare-metal C, microcontrollers with RTOS and embedded linux. Now working in a team where we handle everything from timing critical FPGA programming over python and rust on embedded yocto linux to containers and databases in azure.
 
