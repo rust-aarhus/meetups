@@ -35,7 +35,7 @@ Hamid Alavi Toussi is a software engineer at Elsevier. He is interested in searc
 - [srcsearch on GitHub](https://github.com/jslambda/srcsearch)
 - [srcsearch on Crates.io](https://crates.io/crates/srcsearch)
 
-## A Rust journey
+## Rust vs Python in a yocto embedded linux context
 
 by Andreas Corneliussen
 
